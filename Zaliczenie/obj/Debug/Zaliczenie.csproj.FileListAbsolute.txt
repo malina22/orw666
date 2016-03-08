@@ -1,0 +1,64 @@
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Zaliczenie.dll.config
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Zaliczenie.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Zaliczenie.pdb
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Antlr3.Runtime.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Microsoft.Web.Infrastructure.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Newtonsoft.Json.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Net.Http.Formatting.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Helpers.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Http.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Http.WebHost.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Mvc.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Optimization.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Razor.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.WebPages.Deployment.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.WebPages.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.WebPages.Razor.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\WebGrease.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Newtonsoft.Json.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Net.Http.Formatting.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Helpers.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Http.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Http.WebHost.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Mvc.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Optimization.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.Razor.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.WebPages.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.WebPages.Deployment.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\System.Web.WebPages.Razor.xml
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Antlr3.Runtime.pdb
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.dll
+c:\users\michał\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.pdb
+H:\ORW6\Zaliczenie\bin\Zaliczenie.dll.config
+H:\ORW6\Zaliczenie\bin\Zaliczenie.dll
+H:\ORW6\Zaliczenie\bin\Zaliczenie.pdb
+H:\ORW6\Zaliczenie\bin\Antlr3.Runtime.dll
+H:\ORW6\Zaliczenie\bin\Microsoft.Web.Infrastructure.dll
+H:\ORW6\Zaliczenie\bin\Newtonsoft.Json.dll
+H:\ORW6\Zaliczenie\bin\System.Net.Http.Formatting.dll
+H:\ORW6\Zaliczenie\bin\System.Web.Helpers.dll
+H:\ORW6\Zaliczenie\bin\System.Web.Http.dll
+H:\ORW6\Zaliczenie\bin\System.Web.Http.WebHost.dll
+H:\ORW6\Zaliczenie\bin\System.Web.Mvc.dll
+H:\ORW6\Zaliczenie\bin\System.Web.Optimization.dll
+H:\ORW6\Zaliczenie\bin\System.Web.Razor.dll
+H:\ORW6\Zaliczenie\bin\System.Web.WebPages.Deployment.dll
+H:\ORW6\Zaliczenie\bin\System.Web.WebPages.dll
+H:\ORW6\Zaliczenie\bin\System.Web.WebPages.Razor.dll
+H:\ORW6\Zaliczenie\bin\WebGrease.dll
+H:\ORW6\Zaliczenie\bin\Newtonsoft.Json.xml
+H:\ORW6\Zaliczenie\bin\System.Net.Http.Formatting.xml
+H:\ORW6\Zaliczenie\bin\System.Web.Helpers.xml
+H:\ORW6\Zaliczenie\bin\System.Web.Http.xml
+H:\ORW6\Zaliczenie\bin\System.Web.Http.WebHost.xml
+H:\ORW6\Zaliczenie\bin\System.Web.Mvc.xml
+H:\ORW6\Zaliczenie\bin\System.Web.Optimization.xml
+H:\ORW6\Zaliczenie\bin\System.Web.Razor.xml
+H:\ORW6\Zaliczenie\bin\System.Web.WebPages.xml
+H:\ORW6\Zaliczenie\bin\System.Web.WebPages.Deployment.xml
+H:\ORW6\Zaliczenie\bin\System.Web.WebPages.Razor.xml
+H:\ORW6\Zaliczenie\bin\Antlr3.Runtime.pdb
+H:\ORW6\Zaliczenie\obj\Debug\Zaliczenie.csprojResolveAssemblyReference.cache
+H:\ORW6\Zaliczenie\obj\Debug\Zaliczenie.dll
+H:\ORW6\Zaliczenie\obj\Debug\Zaliczenie.pdb
